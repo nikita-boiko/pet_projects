@@ -1,7 +1,7 @@
-*Пет-проекты по анализу данных*
+## Pet-проекты по анализу данных
 
+**ML** — Kaggle: Linear Regression, Random Forest, XGBoost. Оценка: Accuracy, F1, ROC-AUC.
 
-в данном репозитории собраны проекты по ML, SQL, Python (Pandas, Numpy)
-ML - обучение классическими алгоритмами для соревнований Kaggle
-Python (Pandas, Numpy, Matplotlib, Seaborn) - Анализ доступности талонов к врачам.
-SQL - Анализ показателей записи на прием к врачу
+**Python** — Анализ доступности талонов: Pandas, NumPy, Matplotlib, Seaborn. Визуализация загруженности врачей.
+
+**SQL** — Анализ записи к врачу: JOIN, CTE, оконные функции. Метрики конверсии и ожидания.
